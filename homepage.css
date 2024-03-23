@@ -1,0 +1,82 @@
+
+  .banner img{
+    width: 100%;
+    height: 70%;
+  }
+  article.list1 {
+    margin: 20px auto;
+    padding: 10px;
+    border-radius: 5px;
+    width: 98%; 
+  }
+  
+  article.list1 h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 30px;
+  }
+  
+  article.list1 ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  article.list1 ul li  {
+    display: inline-block;
+    margin: 0 10px 20px;
+    width: 18%; 
+    text-align: center;
+    vertical-align: top;
+  }
+  
+  article.list1 ul li a {
+    text-decoration: none;
+    color: #000;
+  }
+  
+  article.list1 ul li img {
+    width: 200px;
+    height: 250px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
+  
+  article.list1 ul li h3 {
+    font-size: 16px;
+    margin-bottom: 5px;
+  }
+  
+  article.list1 ul li p {
+    font-size: 14px;
+    margin-bottom: 5px;
+  }
+  .copyright {
+    text-align: center;
+    font-size: 14px;
+    color: #666;
+    border-top: 1px solid #ccc;
+  }
+  
+  .copyright p {
+    margin-bottom: 5px;
+  }
+
+  .caidat {
+    width: 150px;
+    height: 30px;
+    border: 1.5px solid #d77b80;
+    border-radius: 45px;
+    transition: all 0.3s;
+    cursor: pointer;
+    background: white;
+    font-size: 1.1em;
+    font-weight: 550;
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  .caidat:hover {
+    background: #f48e90;
+    color: rgb(255, 254, 254);
+    font-size: 1em;
+  }
